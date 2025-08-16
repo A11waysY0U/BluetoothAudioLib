@@ -114,4 +114,4 @@ void loop() {
 欢迎通过Pull Request或Issues来贡献您的代码和建议！
 
 ## 许可证
-该项目基于 MIT 许可证。
+该项目基于 Apache 2.0 许可证。
